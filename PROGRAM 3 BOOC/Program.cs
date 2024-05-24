@@ -39,7 +39,7 @@ namespace PROGRAM_3_BOOC
                     Console.Write("Put the Days:");
                     int DAY = int.Parse(Console.ReadLine());
                     int Mon = DAY / 30;
-                    Console.WriteLine($"Days to Months : " + Mon + " Days");
+                    Console.WriteLine($"Days to Months : " + Mon + " Months");
                 }
                 else
                 {
